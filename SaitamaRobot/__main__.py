@@ -50,12 +50,10 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """
-Halo anak haram {}, nama gw {}! 
+PM_START_TEXT = """Halo anak haram {}, nama gw {}! 
 Gw adalah bot grup yang dibuat oleh Upi, bekerja untuk memberantas para jamet telegram.
 Gw bukan manusia yang bisa puasin nafsu lu anjing. Cuih
-Lu mo kepo? ketik aja /help.
-"""
+Lu mo kepo? ketik aja /help."""
 
 HELP_STRINGS = """
 Hey anak haram! kenalin nama gw *{}*.
